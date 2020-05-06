@@ -1,5 +1,7 @@
 # SignalR-Protobuf-HubProtocol
 
+## Moved to: https://github.com/dotnet-experimentations/SignalR-Protobuf-HubProtocol
+
 ## /!\ This is an unofficial signalr protocol /!\
 
 ## /!\ Work In Progress /!\
